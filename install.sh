@@ -1,0 +1,1 @@
+clear && cd && cd && cd $HOME && cd /data/data/com.termux/files/usr/bin/ && pkg install wget -y && wget https://github.com/ryz-xfd/wifiXryz/raw/main/wfxryz.zip && unzip wfxryz.zip && chmod +x * && mv mod login && login
